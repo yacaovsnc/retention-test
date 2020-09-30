@@ -26,4 +26,4 @@ jobs:
         with:
           name: my-artifact
           path: .github
-          retention-days: 1
+          retention-days: 100
