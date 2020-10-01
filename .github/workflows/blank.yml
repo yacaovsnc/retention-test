@@ -26,9 +26,3 @@ jobs:
         with:
           name: my-artifact
           path: .github
-          retention-days: 15
-
-      - uses: actions/upload-artifact@main
-        with:
-          name: my-artifact
-          path: .github
